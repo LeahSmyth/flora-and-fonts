@@ -1,1 +1,1 @@
-[Flora & Fonts](https://LeahSmyth.github.io/Flora-and-Fonts/index.html)
+[Flora & Fonts](https://LeahSmyth.github.io/flora-and-fonts/index.html)
